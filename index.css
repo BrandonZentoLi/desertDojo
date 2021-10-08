@@ -4,10 +4,7 @@ html{
   text-align: center;
 }
 
-body{
-  margin-left: 5%;
-  margin-right: 5%;
-}
+
 
 img{
   width: 350px;
@@ -22,6 +19,7 @@ a{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   width: 350px;
+  margin: 8;
 }
 
 .card:hover {
@@ -35,12 +33,12 @@ a{
 /*Makes the div(container object) into a row of elements that are inside it*/
 .row {
   display: flex;
-  align-items: center;
+  justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
+  margin-top: 3%;
 }
 
 .col{
-  margin-left: 5%;
-  margin-left: 5%;
+  margin: 1%;
 }
