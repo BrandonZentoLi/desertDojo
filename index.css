@@ -19,6 +19,12 @@ a{
   text-decoration: none;
 }
 
+.text{
+  margin-left: 19px;
+  text-align: justify;
+}
+
+
 .validatorImage{
   float: left;
   width: 200px;
