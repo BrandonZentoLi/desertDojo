@@ -18,6 +18,16 @@ a{
   text-decoration: none;
 }
 
+.validatorImage{
+  float: left;
+  width: 200px;
+  height: 150px;
+  object-fit: contain;
+}
+
+.link{
+  text-decoration: underline;
+}
 
 /*Top navigation bar customization:*/
 .topnav {
