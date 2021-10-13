@@ -1,0 +1,38 @@
+img{
+	border: 5px solid black;
+    border-radius: 16px;
+}
+
+h1{
+	margin-left: 3%;
+}
+
+a{
+	text-decoration: underline;
+	color: grey;
+}
+
+.row{
+	margin: 3%;
+	justify-content: left;
+}
+
+
+
+.validatorImage{
+	border: none;
+}
+
+.text{
+	margin: 3%;
+	text-align: left;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
